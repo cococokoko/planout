@@ -1,0 +1,6 @@
+projectKey=capstone-group1
+serverUrl=http://sonarqube-mcsbt.westeurope.cloudapp.azure.com
+serverVersion=9.4.0.54424
+dashboardUrl=http://sonarqube-mcsbt.westeurope.cloudapp.azure.com/dashboard?id=capstone-group1
+ceTaskId=AYGFcTHcmhBr7LHbX7FZ
+ceTaskUrl=http://sonarqube-mcsbt.westeurope.cloudapp.azure.com/api/ce/task?id=AYGFcTHcmhBr7LHbX7FZ
